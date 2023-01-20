@@ -1,0 +1,102 @@
+
+body {
+    background-color: greenyellow;
+}
+h1 {
+    text-align: center;
+    background-color: white;
+    margin: 50px;
+}
+.container {
+    padding: 15px;
+    font-size: 40pxt;
+    color: black;
+    border: solid black 2px;
+    background-color: white;
+    width: 30%;
+    align-self: center;
+    display: block;
+    margin: 100px auto;
+    border-radius: 10px;
+}
+.screen {
+    background-color: gray;
+    font-size: 40px !important;
+    border: solid 2px;
+    color: white;
+    font-size: medium;
+    cursor: default;
+    width: 100%;
+    height: 70px;
+    padding: 0;
+    margin: auto;
+    margin-bottom: 10px;
+}
+input[type="button"]:hover {
+    background-color: red;
+}   
+input[type="button"]:active {
+    background-color: rgb(131, 193, 244);
+}
+.Operator {
+    background-color: purple;
+    padding: 5px;
+    font-size: 20px;
+    color: black;
+    border: solid black 2px;
+    width: 100%;
+    height: 50px;
+    cursor: pointer;
+}
+.number {
+    padding: 5px;
+    font-size: 20px;
+    color: black;
+    border: solid black 2px;
+    width: 100%;
+    height: 50px;
+    cursor: pointer;
+}
+.Decimal {
+    background-color: lightblue;
+    padding: 5px;
+    font-size: 20px;
+    color: black;
+    border: solid black 2px;
+    width: 100%;
+    height: 50px;
+    cursor: pointer;
+}
+.clear {
+    background-color: lightgreen;
+    padding: 5px;
+    font-size: 20px;
+    color: black;
+    border: solid black 2px;
+    width: 100%;
+    height: 50px;
+    cursor: pointer;
+}
+.Deletion {
+    background-color: palevioletred;
+    padding: 5px;
+    font-size: 20px;
+    color: black;
+    border: solid black 2px;
+    width: 100%;
+    height: 50px;
+    cursor: pointer;
+}
+.Equal {
+    background-color: yellow;
+    padding: 5px;
+    font-size: 20px;
+    color: black;
+    border: solid black 2px;
+    width: 100%;
+    height: 50px;
+    cursor: pointer;
+}
+table {
+   width: 100%;
+}
